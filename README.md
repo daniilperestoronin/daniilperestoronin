@@ -3,7 +3,7 @@
 I'm Danil
 
 Find me at:
-* [website](https://danilperestoronin.com)
+* [my website](https://danilperestoronin.com)
 * [stackoverflow](https://stackoverflow.com/users/6936154/danil-perestoronin?tab=profile)
 * [twitter](https://twitter.com/danperestoronin)
 * [medium](https://medium.com/@danilperestoronin)
