@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey! Nice to see you.
+### Hey! Nice to see you.
 
 My name is Danil and I'm Software Engineer.
 
