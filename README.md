@@ -1,7 +1,5 @@
 ### Hey! Nice to see you.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilperestoronin&layout=compact&langs_count=6" alt="" height="150" width="400"/>
-
 My name is Danil and I'm Software Engineer.
 
 You can find me at: [website](https://danilperestoronin.com), [stackoverflow](https://stackoverflow.com/users/6936154/danil-perestoronin?tab=profile), [mastodon](https://mas.to/web/@daniilperestoronin)
